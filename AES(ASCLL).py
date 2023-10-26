@@ -49,8 +49,6 @@ def AES_de(data):
     return AES_de_str.strip(b'\x00'.decode())
 
 
-# AES加密相关函数，略去之前的代码
-
 def encrypt(data, key, iv):
     data = AES_en(data, key, iv)
     return data
