@@ -51,8 +51,9 @@ TASK 4:多重加密
 ![image](https://github.com/onlydev1ce3/S-AES/assets/145557897/a19b59fb-ebe0-417e-b62c-b8b911809d5b)
 
 TASK 5:工作模式. 
-基于S-AES算法，使用密码分组链(CBC)模式对较长的明文消息进行加密。注意初始向量(16 bits) 的生成，并需要加解密双方共享。在CBC模式下进行加密，并尝试对密文分组进行替换或修改，然后进行解密，请对比篡改密文前后的解密结果。
-
+基于S-AES算法，使用密码分组链(CBC)模式对较长的明文消息进行加密。注意初始向量(16 bits) 的生成，并需要加解密双方共享。在CBC模式下进行加密，并尝试对密文分组进行替换或修改，然后进行解密，请对比篡改密文前后的解密结果。    
+AES5-1.py
+AES5-2.py
 
 ![image](https://github.com/onlydev1ce3/S-AES/assets/145557897/6e314ba4-9229-4b1c-bc3f-c2c5a4578c11)
 
