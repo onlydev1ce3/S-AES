@@ -30,6 +30,9 @@ TASK 3: 扩展功能 ASCII加密解密  AES(ASCLL).py
 TASK 4:多重加密
 4-1 双重加密将S-AES算法通过双重加密进行扩展，分组长度仍然是16 bits，但密钥长度为32 bits。 AES4-1.py
 
+![image](https://github.com/onlydev1ce3/S-AES/assets/145557897/3e392d10-311f-47c6-8c59-189f93713850)
+
+
 ![image](https://github.com/onlydev1ce3/S-AES/assets/145557897/0a12b7f6-2131-45b9-a2fb-19e5141be884)
 
 
